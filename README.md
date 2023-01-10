@@ -3,7 +3,7 @@
 **Purpose**: Purpose of this repo is to show all the progress is taken week by week. As you might noticed there are
 folders that named with week numbers. Each week has its own assignment. You can check read me section and get more details.
 
-## Week 1 and 2
+<h2><a href="https://github.com/Akil-Evlat/Akil-Evlat-IoT-and-Cyber-Security-E-portfolio/tree/main/Week1-2">Week 1-2</a></h2>
 <h2> First week </h2>
 We start with lecture notes and cover this topics
 
