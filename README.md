@@ -35,9 +35,9 @@ Why is it important to have a backup system in place that works closely with cyb
 On week 2 we tried to answer some questions about **Digitalization** topic. We had an article and we had some questions to answer. We also had a question which was about \*_Energy Crisis_ in EU.
 I added some references to end of the document. For more details about week two please visit week 2 folder.
 
-## Week 3
+<h2><a href="https://github.com/Akil-Evlat/Akil-Evlat-IoT-and-Cyber-Security-E-portfolio/tree/main/Week3-4">Week 3-4</a></h2>
 
-On week 3 we worked on a table about **Solar Winds**. Motivation of the week was filling up the table with required data and summarize it at the end. Our titles were the following:
+On week 3-4 we worked on a Cyber Kill Chain. Motivation of the week was make a small seminar about A 'Worst Nightmare' Cyberattack: The Untold Story of The SolarWinds Hack. Our titles were the following:
 
 - Kill-Chain Phase
 - Kill-Chain Phase Description
@@ -45,3 +45,51 @@ On week 3 we worked on a table about **Solar Winds**. Motivation of the week was
 - Solar Winds Mitigation
 - Proposed Tools
   For more details about week three please visit week 3 folder.
+
+<h2><a href="https://github.com/Akil-Evlat/Akil-Evlat-IoT-and-Cyber-Security-E-portfolio/tree/main/Week4-5">Week 4-5</a></h2>
+
+We got information about kali Linux by reading 2 articles in 4-5 weeks and we saw that it was applied in the lab. Later, we downloaded the VMware machine to our own system at home and installed virtual kali Linux on our computer.Then we created a table about analyses the solar winds exploit using the Cyber Kill Chain.
+
+<h2><a href="https://github.com/Akil-Evlat/Akil-Evlat-IoT-and-Cyber-Security-E-portfolio/tree/main/Week5-6">Week 5-6</a></h2>
+
+In week 5 and 6 first we complete the lecture notes, these are the main titles:
+
+- AAA
+- Threat Risk Assessment Matrix
+- Kali linux and VmWare
+- Tools and description
+
+And after that in the lab section first we simulate a dos attack, second we set up a honeypot and last we implement port security.
+
+<h2><a href="https://github.com/Akil-Evlat/Akil-Evlat-IoT-and-Cyber-Security-E-portfolio/tree/main/Week6-7">Week 6-7</a></h2>
+
+In week 6 and 7 we finished the lecture notes first, titles are:
+- Attacks on Enterprise Networks
+- Man-in-the-middle attack
+After that we watched a video showing exactly how it's done(<a href="https://youtu.be/p4pLVN_hVsU">Video link</a>)
+ In the and I uploaded the notes I took on this subject to the week 6-7 file
+
+ <h2><a href="https://github.com/Akil-Evlat/Akil-Evlat-IoT-and-Cyber-Security-E-portfolio/tree/main/Week8-9">Week 8-9</a></h2>
+
+In this week we cover IOT and Phsical Computin lecture notes which is include:
+- Introduction about What is physical Computing?
+- Introduction about IOT 
+- IOT ingredients, devices, etc.
+After that we create a table to selecting an IOT infrastructure, you can see my table and notes in week8-9 file.
+
+<h2><a href="https://github.com/Akil-Evlat/Akil-Evlat-IoT-and-Cyber-Security-E-portfolio/tree/main/Week10-11">Week 10-11</a></h2>
+
+In the last weeks 10 and 11 first we finish our last lecture notes, these are the titles:
+- Threat Modelling
+- Common treath actors
+- Smart Parking Garage
+- The DREAD model
+- Protect Cloud IoT services
+- IoT Infrastructure
+- Challenges
+
+And then Babak Reihani came and gave us a small seminar about The practical aspects/challenges of IoT Operations.
+In the seminar, he gave us very good information about IoT and then made an effective presentation where he shared his knowledge and experience about his company.
+It was very nice that he brought us the smart home systems that he made and sold in the presentation and explained them practically.
+
+I added the notes I took about the seminar he gave to the week 10 and 11 file, you can review my notes by entering there.
