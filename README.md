@@ -33,7 +33,6 @@ Why is it important to have a backup system in place that works closely with cyb
 <h2> Second Week </h2>
 
 On week 2 we tried to answer some questions about **Digitalization** topic. We had an article and we had some questions to answer. We also had a question which was about \*_Energy Crisis_ in EU.
-I added some references to end of the document. For more details about week two please visit week 2 folder.
 
 <h2><a href="https://github.com/Akil-Evlat/Akil-Evlat-IoT-and-Cyber-Security-E-portfolio/tree/main/Week3-4">Week 3-4</a></h2>
 
